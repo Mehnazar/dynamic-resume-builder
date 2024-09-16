@@ -25,7 +25,7 @@ document.getElementById('resumeForm')?.addEventListener('submit', function (even
             <p><strong>Name:</strong> ${name}</p>
             <p><strong>Email:</strong> ${email}</p>
             <p><strong>Phone Number:</strong> ${phone}</p>
-
+        
             <h3>Education</h3>
             <p>${education}</p>
 
